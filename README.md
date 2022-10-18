@@ -1,7 +1,21 @@
 # nlw-esports
 Projeto desenvolvido com intuito de aprender mais sobre NodeJS, ORM Prisma, Sqlite, ReactJS e Radix. que permite a criação e listagem de anúncios de procura de DUO em jogos escolhidos pelo usuário
 
--- TODO: como startar os projetos...
+# start project (my node version 16.18.0)
+
+## back-end
+
+- cd server
+- npm install
+- npx prisma generate
+- npm run dev
+
+## front-end
+
+- cd web
+- npm install
+- npm run dev
+- acess http://127.0.0.1:5173/ in browser
 
 ## front-end screen's:
 
